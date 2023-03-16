@@ -1,0 +1,3 @@
+com/pe/screenplaybdd/runners/CucumberTestSuite.class
+com/pe/screenplaybdd/stepsdefinitions/UserManagerStepsDefinitions.class
+com/pe/screenplaybdd/stepsdefinitions/Hooks.class
