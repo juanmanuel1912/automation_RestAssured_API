@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Funcionalidad Gestión de usuario" skipped="0" tests="3" time="9.62" timestamp="2024-11-27 04:26:10"><testcase name="Crear un usuario para la petstore"/><testcase name="Actualizar el usuario en la petstore"/><testcase name="ELiminar el usuario en la petStore"/></testsuite>
